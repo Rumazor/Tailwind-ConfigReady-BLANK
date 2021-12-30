@@ -1,1 +1,1 @@
-# Copia para hacer proyectos con Tailwind configurado y listo.
+#  Tailwind en blanco configurado y listo para hacer proyectos.
