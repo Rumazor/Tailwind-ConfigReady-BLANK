@@ -1,1 +1,1 @@
-# Tailwind-ConfigReady-BLANK
+# Copia para hacer proyectos con Tailwind configurado y listo.
